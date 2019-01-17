@@ -1,0 +1,1 @@
+{"euro":"0.88","colombian peso":"3150.9","mexican peso":"21.34","brazilian real":"3.78","us dollar":"1","canadian dollar":"1.2","chinese yuan":"7.0","japanese yen":"113.98","indian rupee":"73.90"}
